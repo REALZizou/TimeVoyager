@@ -1,0 +1,6 @@
+{
+  "name": "星际时光号 - 小学生可视化时间管理与自律培养系统",
+  "description": "针对小学生假期拖延痛点设计的可视化时间管理与游戏化自律培养系统，提供儿童专注探险模式、可视化时间表盘、亲子契约愿望单与家长全链路数据追溯复盘。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
